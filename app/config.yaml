@@ -1,0 +1,46 @@
+# This is for the object count line
+count_line:
+  start_point:  # from top left (x, y)
+    - 350
+    - 0
+  end_point:
+    - 350
+    - 1080
+  color: # BGR
+    - 0
+    - 255
+    - 0
+  thickness: 2
+
+# This is for the object moving direction visualize
+dir_visualize:
+  thickness: 2
+  radius: 2
+  color: # BGR
+    - 255
+    - 255
+    - 0
+
+# This is for object circle line
+count_circle:
+  color: # BGR
+    - 0
+    - 255
+    - 0
+  thickness: 3
+  radius: 270
+  center:
+    - 900
+    - 270
+
+# This is for text
+text:
+  org: # start position (from top left)
+    - 50
+    - 50
+  fontScale: 1
+  color: # BGR
+    - 255
+    - 0
+    - 255
+  thickness: 2
