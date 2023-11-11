@@ -4,4 +4,9 @@ Object is count by a reference line. when an object pass a reference line we can
 By this reference line we can calculate object direction which help us to determine
 an object is in or out direction.
 
-### Here is an Example. 
+
+### Usages:
+Add your video in videos folder and add the file name in object_count.py file. 
+Adjust your line and circle position by editing config.yaml file. 
+
+### Here is an Example output. 
